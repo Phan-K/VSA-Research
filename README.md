@@ -1,8 +1,8 @@
 # VSA-Research
 VSA Research Summer 2018
 
-About the Code
-The code is run in Jupyter Notebook. Each notebook has more extensive documentation inside, explaining why I choose certain values or particular functions.
+## About the Code
+This repository is for the Virtual Student Advisor Project. The code is run in Jupyter Notebook. Each notebook has more extensive documentation inside, explaining why I choose certain values or particular functions.
 
 ## Dataset Files
 ### For classification
