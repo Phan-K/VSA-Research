@@ -14,6 +14,7 @@ This repository is for the Virtual Student Advisor Project. The code is run in J
 ### For NLP
 1. studyplan_document.txt – The study plan represented as a document.
 2. studyplan_sentences – PlanIDs mapped to study plan sentence representations as described in the main document
+3. studyplans.csv - The plans generated from the Vsadatabse. SQL code in the documentation.
 ## Code Files
 1. Decision Tree Classification.ipynb – Code for how I used various decision tree classifiers
 2. Neural Network Binary Classifier.ipynb – Code for how I classified using a Neural Network
