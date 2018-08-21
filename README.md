@@ -26,3 +26,4 @@ Please run the code files in this order so that the files used in the code may b
 2.	PCA
 3.	Any classifier file (either neural network or decision tree)
 4.	Any NLP file
+Also the data should be in the same folder as the notebook to run, unless you alter the code.
